@@ -1,0 +1,1 @@
+# solana_multisig_wallet
